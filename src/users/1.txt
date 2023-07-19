@@ -1,0 +1,1 @@
+{'u_id': '1', 'u_pwd': '1000', 'u_name': 'l', 'isAdmin': 'y', 'g_name': []}
